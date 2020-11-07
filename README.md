@@ -4,6 +4,7 @@
 * DDR4 8G * 2
 * TR200 480G
 * BCM94360CS2 + adaptor
+* OpenCore 6.3
 
 ## What works
 * AirDrop
